@@ -1,5 +1,4 @@
 # Kodluyoruz
-# Kodluyoruz Programı
 
 Bu depo, Kodluyoruz programı kapsamında her hafta ekleyeceğim kodları içermektedir. Program boyunca öğrendiğim kavramları ve gerçekleştirdiğim projeleri burada bulabilirsiniz.
 
